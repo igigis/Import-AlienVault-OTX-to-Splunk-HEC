@@ -55,7 +55,7 @@ This script enables seamless integration of Indicator of Compromise (IoC) data f
    ```bash
    0 */12 * * * /path/to/import_otx_to_hec.sh >> /path/to/logfile.log 2>&1
    ```
-   - Replace `/path/to/import_otx_to_splunk.sh` with the full path to the script.
+   - Replace `/path/to/import_otx_to_hec.sh` with the full path to the script.
    - Replace `/path/to/logfile.log` with the desired path for storing logs.
 
 ## Example Output
