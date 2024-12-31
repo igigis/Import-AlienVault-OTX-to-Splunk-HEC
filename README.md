@@ -84,8 +84,6 @@ For a sample JSON response, the transformed Splunk HEC data will look like this:
    - Error: `Failed to send data to Splunk HEC.`
    - Solution: Verify the HEC endpoint, token, and Splunk HEC server availability.
 
-5. **Debugging API Response:**
-   - Enable debugging in the script to print the API response by uncommenting the debug lines.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
